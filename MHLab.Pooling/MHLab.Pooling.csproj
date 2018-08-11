@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.0.2</Version>
+    <Authors>Emanuele Manzione</Authors>
+    <Company>MHLab</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>A library to reuse objects and buffers.</Description>
+    <PackageTags>pooling</PackageTags>
+    <RepositoryUrl>https://github.com/manhunterita/MHLab.Pooling</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/manhunterita/MHLab.Pooling</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/manhunterita/MHLab.Pooling/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>

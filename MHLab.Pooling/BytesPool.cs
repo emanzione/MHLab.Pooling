@@ -2,7 +2,7 @@
 
 namespace MHLab.Pooling
 {
-    internal class BytesPool
+    public class BytesPool
     {
         private static readonly ArrayPool<byte> Pool = ArrayPool<byte>.Shared;
 
